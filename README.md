@@ -136,14 +136,19 @@ Each topic is practiced using Data Engineering and ETL-related examples, with th
 
 **Python → ETL → PySpark → Databricks → Professional Data Engineering**
 
-☕ Stay Connected
+## ☕ Stay Connected
+
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-🔗LinkedIn
-📧 Email
-🛡️ License
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+- 🔗[LinkedIn](https://www.linkedin.com/in/chandrika-chokka-66b9ab184/)
+- 📧 [Email](mailto:Chandrika67a@gmail.com)
 
-🌟 About Me
-Data Engineer with 11+ years of experience designing and optimizing large-scale ETL pipelines and data warehouse solutions.
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## 🌟 About Me
+Data Engineer with 11+ years of experience designing and optimizing large-scale ETL pipelines and data warehouse solutions.  
 Specialized in IBM DataStage, SQL, and building reliable data integration frameworks using SCD and CDC techniques.
+

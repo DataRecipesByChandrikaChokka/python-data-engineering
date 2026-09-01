@@ -1,5 +1,7 @@
-# python-data-engineering
+Python for Data Engineering
+
 Hands-on Python learning focused on Data Engineering, ETL, data processing, and real-world use cases.
+
 This repository contains my practical learning journey from Python fundamentals to building data engineering pipelines, followed by PySpark and Databricks.
 
 🎯 Goals
@@ -69,22 +71,6 @@ File size
 File type
 Source system
 Processing status
-Example
-========================================
-        DAILY FILE VALIDATION
-========================================
-
-Environment   : PROD
-File          : customer_20260813.csv
-Source        : ORACLE
-File Type     : CSV
-Records       : 125000
-Expected      : 120000
-File Size     : 85 MB
-Status        : SUCCESS
-Message       : File validation successful
-
-========================================
 🛠️ Technologies
 Python
 SQL
